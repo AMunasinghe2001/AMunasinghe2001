@@ -5,7 +5,11 @@
 
 
 # 💫 About Me:
-•👯 I’m undergraduate at SLIIT<br>•🌱 I’m currently learning Java, HTML, CSS, JS<br>•💬 Ask me about Java, HTML, CSS, JS<br>•📫 How to reach me : anushangamunasinghe@gmail.com<br>•⚡ Fun fact AK<br><br>
+- 👯 I’m undergraduate at SLIIT<br>
+- 🌱 I’m currently learning Java, HTML, CSS, JS<br>
+- 💬 Ask me about Java, HTML, CSS, JS<br>
+- 📫 How to reach me : anushangamunasinghe@gmail.com<br>
+- ⚡ Fun fact AK<br><br>
 
 
 # 🌐 Socials:
