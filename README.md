@@ -23,10 +23,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushangamunasinghe&show_icons=true&locale=en" alt="anushangamunasinghe" /></p>
-
-
-
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AMunasinghe2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
