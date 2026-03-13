@@ -1,55 +1,55 @@
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="180px">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px">
 </p>
 
-<h1 align="center">✨ Anushanga Munasinghe ✨</h1>
+<h1 align="center">🚀 Anushanga Munasinghe</h1>
 <p align="center">
-  <strong>Software Engineering Undergraduate @ SLIIT</strong>
+  <strong>Software Engineering Undergraduate | Full-Stack & Mobile Developer</strong>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/anushanga-kaushan-munasinghe-9b51882a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anushangamunasinghe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
 
-I'm a goal-oriented **Software Engineering Student** specialized in building robust desktop and mobile applications. Currently, I am bridging the gap between complex logic and elegant user interfaces.
+I am a dedicated **Software Engineering student** with a deep interest in building cross-platform solutions. From designing complex database schemas to crafting seamless mobile UI experiences, I love turning logic into reality.
 
-* 🔭 **Current Focus:** Mobile Application Development (Flutter & Supabase).
-* 💻 **Expertise:** Python-based automation and Database Systems.
-* 🎯 **Goal:** To build impactful software solutions for real-world problems.
+* 📱 **Mobile:** Specialized in **Flutter**, **React Native** and Native **Android (Kotlin)**.
+* 🌐 **Web:** Experienced in **MERN Stack** (MongoDB, Express, React, Node.js).
+* 🖥️ **Desktop:** Developing robust management systems using **Python & SQLite**.
+* ⚡ **Passion:** UI/UX Design and Android system modifications.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Toolbox
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Mobile & Web** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Backend & DB** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Design & IDE** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+| **Markup & Style**| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 
 ---
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&height=150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&height=150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&height=140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&height=140" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10&height=130" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10&height=120" />
 </p>
 
 ---
