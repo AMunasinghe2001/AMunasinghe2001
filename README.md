@@ -1,85 +1,71 @@
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Anushanga Munasinghe</h1>
+<h1 align="center">✨ Anushanga Munasinghe ✨</h1>
 <p align="center">
-  <strong>Undergraduate Software Engineer | Full-Stack Enthusiast | Tech Explorer</strong>
+  <kbd>Software Engineering Undergraduate @ SLIIT</kbd>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-  <img src="https://img.shields.io/github/followers/AMunasinghe2001?label=Follow&style=social">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anushanga-kaushan-munasinghe-9b51882a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anushangamunasinghe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 💫 About Me
+### 🚀 About Me
 
-I am a passionate **Software Engineering Undergraduate** with a drive for building functional, user-centric applications. Currently exploring the depths of mobile and desktop application development while honing my skills in database architecture.
+I'm a goal-oriented **Software Engineering Student** specialized in building robust desktop and mobile applications. Currently, I am bridging the gap between complex logic and elegant user interfaces.
 
-- 🎓 **Education:** Undergraduate at SLIIT
-- 🚀 **Currently Focused on:** Flutter, Python (Tkinter/SQLite), and Cloud Integration (Supabase)
-- 🛠️ **Recent Projects:** Library Management Systems & Market Information Apps
-- 💬 **Ask me about:** Java, Dart, Python, and Web Technologies
-- 📫 **Reach me at:** [anushangamunasinghe@gmail.com](mailto:anushangamunasinghe@gmail.com)
-- ⚡ **Fun Fact:** I believe every complex problem can be solved with a well-structured loop and a cup of coffee!
+* 🔭 **Working on:** Mobile applications for market analysis (Flutter & Supabase).
+* 💻 **Expertise:** Python-based automation and Library Management Systems.
+* 🌱 **Learning:** Advanced State Management in Flutter and Backend Optimization.
+* 🎯 **Goal:** To build impactful software solutions for real-world problems.
 
 ---
 
-### 🌐 Socials & Connectivity
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushanga-kaushan-munasinghe-9b51882a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anushanga Munasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anushanga_kawshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anushanga_kawshan" height="30" width="40" /></a>
-<a href="https://facebook.com/https://web.facebook.com/anushanga.kawshan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushanga.kawshan" height="30" width="40" /></a>
-<a href="https://youtube.com/@https://www.youtube.com/channel/UCwWM7JSG8GYt78RKoM-5w0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Anushanga" height="30" width="40" /></a>
-</p>
+### 🛠️ My Tech Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile & Desktop** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend & DB** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) |
 
 ---
 
-### 💻 Tech Stack & Tools
-
-#### 🚀 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🗄️ Databases & Tools
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Insights
+### 📂 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&layout=compact&theme=tokyonight" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight" width="100%">
+  <a href="https://github.com/AMunasinghe2001/SLC-Library-Management">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMunasinghe2001&repo=SLC-Library-Management&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/AMunasinghe2001">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMunasinghe2001&repo=Student-Management-System&theme=tokyonight&show_owner=true" />
+  </a>
 </p>
 
 ---
 
-### 🔝 Top Contributions
+### 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AMunasinghe2001&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AMunasinghe2001&icon=0&color=1" alt="visitor count">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10" width="100%">
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%">
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+</p>
