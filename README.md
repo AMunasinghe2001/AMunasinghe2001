@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250px">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200px">
 </p>
 
 <h1 align="center">✨ Anushanga Munasinghe ✨</h1>
@@ -43,11 +43,11 @@ I'm a goal-oriented **Software Engineering Student** specialized in building rob
 ### 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AMunasinghe2001/SLC-Library-Management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMunasinghe2001&repo=SLC-Library-Management&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/AMunasinghe2001">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMunasinghe2001&repo=AMunasinghe2001&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/AMunasinghe2001">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMunasinghe2001&repo=Student-Management-System&theme=tokyonight&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMunasinghe2001&repo=AMunasinghe2001&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
@@ -56,12 +56,12 @@ I'm a goal-oriented **Software Engineering Student** specialized in building rob
 ### 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&count_private=true&layout=compact&height=180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&height=180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10" height="150" />
 </p>
 
 ---
