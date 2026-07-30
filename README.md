@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushanga-kaushan-munasinghe-9b51882a2/">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anushanga-kaushan-munasinghe-9b51882a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anushangamunasinghe@gmail.com">
@@ -41,17 +41,20 @@ I am a dedicated **Software Engineering student** with a deep interest in buildi
 
 ---
 
-### 📈 GitHub Analytics & Most Used Languages
+### 📈 GitHub Analytics
 
-<!-- Overall Most Used Languages across ALL Projects -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&height=140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&height=140" />
 </p>
 
-<!-- Commit Streak Stats -->
+<!-- All Projects Language Breakdown Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&hide_border=false&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10&height=120" />
 </p>
 
 ---
