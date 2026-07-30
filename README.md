@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </p>
 
 <h1 align="center">🚀 Anushanga Munasinghe</h1>
@@ -44,21 +44,21 @@ I am a dedicated **Software Engineering student** with a deep interest in buildi
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&height=140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&height=140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact" alt="Most Used Languages" />
 </p>
 
 <!-- All Projects Language Breakdown Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&hide_border=false&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&hide_border=false&langs_count=8" alt="Detailed Languages Breakdown" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10&height=120" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10" alt="Streak Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer" />
 </p>
