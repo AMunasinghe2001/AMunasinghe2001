@@ -44,12 +44,12 @@ I am a dedicated **Software Engineering student** with a deep interest in buildi
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&count_private=true" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats-khaki-delta-76.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats-khaki-delta-76.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&langs_count=8&count_private=true" />
+  <img src="https://github-readme-stats-khaki-delta-76.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
