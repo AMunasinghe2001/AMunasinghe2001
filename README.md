@@ -22,10 +22,10 @@
 
 I am a dedicated **Software Engineering student** with a deep interest in building cross-platform solutions. From designing complex database schemas to crafting seamless mobile UI experiences, I love turning logic into reality.
 
-* 📱 **Mobile:** Specialized in **Flutter**, **React Native** and Native **Android (Kotlin)**.
-* 🌐 **Web:** Experienced in **MERN Stack** (MongoDB, Express, React, Node.js).
-* 🖥️ **Desktop:** Developing robust management systems using **Python & SQLite**.
-* ⚡ **Passion:** UI/UX Design and Android system modifications.
+- 📱 **Mobile:** Specialized in **Flutter**, **React Native** and Native **Android (Kotlin)**.
+- 🌐 **Web:** Experienced in **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🖥️ **Desktop:** Developing robust management systems using **Python & SQLite**.
+- ⚡ **Passion:** UI/UX Design and Android system modifications.
 
 ---
 
@@ -44,16 +44,16 @@ I am a dedicated **Software Engineering student** with a deep interest in buildi
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AMunasinghe2001&show_icons=true&theme=tokyonight&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&layout=compact&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMunasinghe2001&theme=tokyonight&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMunasinghe2001&theme=tokyonight&border_radius=10&count_private=true" />
 </p>
 
 ---
